@@ -1,5 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
+import dotenv from 'dotenv'
+dotenv.config()
 
 Vue.config.productionTip = false
 
